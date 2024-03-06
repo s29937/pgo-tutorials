@@ -1,2 +1,3 @@
-# pgo-tutorials
-didactis purpose project
+<Antoni> <Barcz>
+<12c>
+<s29937>
